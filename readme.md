@@ -1,6 +1,6 @@
 #  ![vienna icon](images/vienna_icon.png) Getting Started
 
-This project contains example code showing how to train and score models while taking advantage of the Vienna system in both Python and PySpark.
+This project contains example code showing how to train and score models in Python and PySpark.
 
 In general, your Vienna workflow will be:
 * Set up your execution environments
